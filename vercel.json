@@ -1,0 +1,4 @@
+{
+  "framework": "next",
+  "buildCommand": "pnpm run build"
+}
